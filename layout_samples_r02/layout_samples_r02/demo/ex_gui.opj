@@ -1,0 +1,90 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\ex_gui.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\ex_gui.dsn")
+      (Path "Design Resources" ".\ex_gui.dsn" "EX_GUI"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 421"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1714 78 538")
+        (Scroll "0 131")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\USER\DESKTOP\SAMPLES\LAYOUT_SAMPLES_R02\LAYOUT_SAMPLES_R02\DEMO\EX_GUI.DSN")
+      (Schematic "EX_GUI")
+      (Page "82C42PC"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1740 104 564")
+        (Scroll "0 580")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\USER\DESKTOP\SAMPLES\LAYOUT_SAMPLES_R02\LAYOUT_SAMPLES_R02\DEMO\EX_GUI.DSN")
+      (Schematic "EX_GUI")
+      (Page "Memory"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1766 130 590")
+        (Scroll "0 610")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\USER\DESKTOP\SAMPLES\LAYOUT_SAMPLES_R02\LAYOUT_SAMPLES_R02\DEMO\EX_GUI.DSN")
+      (Schematic "EX_GUI")
+      (Page "PCMCIA"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 1792 156 616")
+        (Scroll "0 590")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\USER\DESKTOP\SAMPLES\LAYOUT_SAMPLES_R02\LAYOUT_SAMPLES_R02\DEMO\EX_GUI.DSN")
+      (Schematic "EX_GUI")
+      (Page "Ports"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 182 1818 182 642")
+        (Scroll "0 490")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\USER\DESKTOP\SAMPLES\LAYOUT_SAMPLES_R02\LAYOUT_SAMPLES_R02\DEMO\EX_GUI.DSN")
+      (Schematic "EX_GUI")
+      (Page "Processor"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 208 1844 208 668")
+        (Scroll "0 60")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\USER\DESKTOP\SAMPLES\LAYOUT_SAMPLES_R02\LAYOUT_SAMPLES_R02\DEMO\EX_GUI.DSN")
+      (Schematic "EX_GUI")
+      (Page "Video"))))

@@ -1,0 +1,47 @@
+\t (02:15:34) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (02:15:34)     Journal start - Wed Jul 17 14:34:15 2019
+\t (02:15:34)         Host=DESKTOP-0CCQGI6 User=user Pid=2684 CPUs=4
+\t (02:15:34) CmdLine= allegro.exe -p .
+\t (02:15:34) 
+\d (02:15:34) Design opened: C:/Users/user/Desktop/vscode_orcad/samples/layout_samples_r02/layout_samples_r02/demoa/demoa2.brd
+\i (02:15:34) signalintegrity 
+\i (02:15:35) zoom in 1 
+\i (02:15:35) setwindow pcb
+\i (02:15:35) zoom in 901.4 734.6
+\i (02:15:35) trapsize 188
+\i (02:15:35) zoom in 1 
+\i (02:15:35) setwindow pcb
+\i (02:15:35) zoom in -491.8 734.6
+\i (02:15:35) trapsize 94
+\i (02:15:35) zoom in 1 
+\i (02:15:35) setwindow pcb
+\i (02:15:35) zoom in -491.8 734.6
+\i (02:15:35) trapsize 47
+\i (02:15:35) zoom in 1 
+\i (02:15:35) setwindow pcb
+\i (02:15:35) zoom in -491.8 734.6
+\i (02:15:35) trapsize 24
+\i (02:15:36) zoom out 1 
+\i (02:15:36) setwindow pcb
+\i (02:15:36) zoom out -314.8 714.4
+\i (02:15:36) trapsize 47
+\i (02:15:36) zoom out 1 
+\i (02:15:36) setwindow pcb
+\i (02:15:36) zoom out -285.6 720.0
+\i (02:15:36) trapsize 94
+\i (02:15:36) zoom out 1 
+\i (02:15:36) setwindow pcb
+\i (02:15:36) zoom out -266.8 776.6
+\i (02:15:36) trapsize 188
+\i (02:15:36) zoom out 1 
+\i (02:15:36) setwindow pcb
+\i (02:15:36) zoom out 468.6 844.4
+\i (02:15:36) trapsize 377
+\t (02:15:38) last pick:  5398.0 448.4
+\w (02:15:38) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (02:15:52) open 
+\i (02:16:02) fillin "C:\Users\user\Desktop\vscode_orcad\samples\layout_samples_r02\layout_samples_r02\demo\finished.brd"
+\i (02:16:02) cd "C:\Users\user\Desktop\vscode_orcad\samples\layout_samples_r02\layout_samples_r02\demo"
+\t (02:16:02) Opening existing design...
+\i (02:16:02) trapsize 745
+\t (02:16:03)     Journal end - Wed Jul 17 14:34:44 2019

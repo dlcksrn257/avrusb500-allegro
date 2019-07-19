@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : asdfasdf.brd                                  )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Fri Jul 19 11:15:46 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for the top of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.000
+Max Text displacement is 2.540
+Min Line Length is 0.000
+Allowing 0 degree text rotation.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : Silkscreen
+ Component Value      : Silkscreen
+ Device Type          : Silkscreen
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : Silkscreen
+ User Part Number     : Silkscreen
+
+Text string 'R12' is not at a suitable location
+(location: 89.424, 19.315)
+Text string 'R13' is not at a suitable location
+(location: 86.249, 19.315)
+Text string 'R11' is not at a suitable location
+(location: 92.599, 19.315)
+
+Total Failures: 3
+
+Log End
+

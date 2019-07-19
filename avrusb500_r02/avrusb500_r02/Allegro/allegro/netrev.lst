@@ -1,0 +1,92 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : asdfasdf.brd                                  )
+(    Software Version : 16.6S034                                      )
+(    Date/Time        : Thu Jul 18 14:49:13 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro'
+Design Directory:            '.'
+Old design name:             'C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/asdfasdf.brd'
+New design name:             'C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/asdfasdf.brd'
+
+CmdLine: netrev -$ -i C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro -y 1 -q netrev_constraint_report.xml C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/#Taaaaab05712.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/pstchip.dat 
+   Finished reading C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/pstchip.dat (00:00:00.15)
+Starting to read C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/pstxprt.dat 
+   Finished reading C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/pstxprt.dat (00:00:00.00)
+Starting to read C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/pstxnet.dat 
+   Finished reading C:/Users/user/Desktop/vscode_orcad/samples/avrusb500_r02/avrusb500_r02/Allegro/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           c:/Users/user/Desktop/vscode_orcad/workspace/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/Users/user/Desktop/vscode_orcad/workspace/pcb/symbols 
+           C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols 
+           C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/allegrolib/symbols 
+           C:/Users/user/Desktop/vscode_orcad/workspace/pcb_lib/psm 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           c:/Users/user/Desktop/vscode_orcad/workspace/pcb/padstacks 
+           C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/pcb_lib/symbols 
+           C:/Users/user/Desktop/vscode_orcad/cdns/cdns/share/pcb/allegrolib/symbols 
+           C:/Users/user/Desktop/vscode_orcad/workspace/pcb_lib/pad 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jul 18 14:49:13 2019
+   DESIGN NAME : 'AVRUSB500'
+   PACKAGING ON Apr 28 2014 16:45:46
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:43
+elapsed time  0:00:02
+

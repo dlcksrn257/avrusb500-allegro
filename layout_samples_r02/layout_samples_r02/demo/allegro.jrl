@@ -1,0 +1,105 @@
+\t (02:16:03) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (02:16:03)     Journal start - Wed Jul 17 14:34:44 2019
+\t (02:16:03)         Host=DESKTOP-0CCQGI6 User=user Pid=2684 CPUs=4
+\t (02:16:03) CmdLine= allegro.exe -p .
+\t (02:16:03) 
+\d (02:16:03) Design opened: C:/Users/user/Desktop/vscode_orcad/samples/layout_samples_r02/layout_samples_r02/demo/finished.brd
+\i (02:16:03) signalintegrity 
+\i (02:16:04) zoom in 1 
+\i (02:16:04) setwindow pcb
+\i (02:16:04) zoom in 6299.9 3730.3
+\i (02:16:04) trapsize 373
+\i (02:16:04) zoom in 1 
+\i (02:16:04) setwindow pcb
+\i (02:16:04) zoom in 6367.0 3812.3
+\i (02:16:04) trapsize 186
+\i (02:16:05) zoom in 1 
+\i (02:16:05) setwindow pcb
+\i (02:16:05) zoom in 6132.2 3745.3
+\i (02:16:05) trapsize 93
+\i (02:16:05) zoom in 1 
+\i (02:16:05) setwindow pcb
+\i (02:16:05) zoom in 6137.8 3752.8
+\i (02:16:05) trapsize 47
+\i (02:16:05) zoom in 1 
+\i (02:16:05) setwindow pcb
+\i (02:16:05) zoom in 6138.7 3753.8
+\i (02:16:05) trapsize 23
+\i (02:16:05) zoom out 1 
+\i (02:16:05) setwindow pcb
+\i (02:16:05) zoom out 6161.5 3769.1
+\i (02:16:05) trapsize 47
+\i (02:16:05) zoom out 1 
+\i (02:16:05) setwindow pcb
+\i (02:16:05) zoom out 6150.3 3771.1
+\i (02:16:05) trapsize 93
+\i (02:16:06) zoom out 1 
+\i (02:16:06) setwindow pcb
+\i (02:16:06) zoom out 5790.7 3778.5
+\i (02:16:06) trapsize 186
+\i (02:16:06) zoom out 1 
+\i (02:16:06) setwindow pcb
+\i (02:16:06) zoom out 5790.7 3774.8
+\i (02:16:06) trapsize 373
+\i (02:16:07) zoom out 1 
+\i (02:16:07) setwindow pcb
+\i (02:16:07) zoom out 4374.7 3342.6
+\i (02:16:07) trapsize 745
+\i (02:16:07) zoom out 1 
+\i (02:16:07) setwindow pcb
+\i (02:16:07) zoom out 696.0 3521.6
+\i (02:16:07) trapsize 745
+\i (02:16:08) zoom in 1 
+\i (02:16:08) setwindow pcb
+\i (02:16:08) zoom in 2365.2 3342.8
+\i (02:16:08) trapsize 373
+\i (02:16:08) zoom in 1 
+\i (02:16:08) setwindow pcb
+\i (02:16:08) zoom in 2380.2 3335.3
+\i (02:16:08) trapsize 186
+\i (02:16:08) zoom in 1 
+\i (02:16:08) setwindow pcb
+\i (02:16:08) zoom in 2380.1 3335.3
+\i (02:16:08) trapsize 93
+\i (02:16:08) zoom out 1 
+\i (02:16:08) setwindow pcb
+\i (02:16:08) zoom out 2383.8 3344.7
+\i (02:16:08) trapsize 186
+\i (02:16:09) zoom out 1 
+\i (02:16:09) setwindow pcb
+\i (02:16:09) zoom out 2398.8 3367.0
+\i (02:16:09) trapsize 373
+\i (02:16:14) zoom in 1 
+\i (02:16:14) setwindow pcb
+\i (02:16:14) zoom in 6080.1 3873.8
+\i (02:16:14) trapsize 186
+\i (02:16:14) zoom in 1 
+\i (02:16:14) setwindow pcb
+\i (02:16:14) zoom in 6080.1 3873.8
+\i (02:16:14) trapsize 93
+\i (02:16:14) zoom in 1 
+\i (02:16:14) setwindow pcb
+\i (02:16:14) zoom in 6080.1 3873.8
+\i (02:16:14) trapsize 47
+\i (02:16:17) zoom out 1 
+\i (02:16:17) setwindow pcb
+\i (02:16:17) zoom out 5613.4 3972.6
+\i (02:16:17) trapsize 93
+\i (02:16:17) zoom out 1 
+\i (02:16:17) setwindow pcb
+\i (02:16:17) zoom out 5613.4 3972.7
+\i (02:16:17) trapsize 186
+\i (02:16:17) zoom in 1 
+\i (02:16:18) setwindow pcb
+\i (02:16:18) zoom in 5945.0 3417.4
+\i (02:16:18) trapsize 93
+\i (02:16:18) zoom in 1 
+\i (02:16:18) setwindow pcb
+\i (02:16:18) zoom in 5946.9 3419.3
+\i (02:16:18) trapsize 47
+\i (02:16:23) open 
+\i (02:16:29) fillin "C:\Users\user\Desktop\vscode_orcad\samples\layout_samples_r02\layout_samples_r02\democ\democ2.brd"
+\i (02:16:29) cd "C:\Users\user\Desktop\vscode_orcad\samples\layout_samples_r02\layout_samples_r02\democ"
+\t (02:16:29) Opening existing design...
+\i (02:16:29) trapsize 642
+\t (02:16:30)     Journal end - Wed Jul 17 14:35:11 2019
